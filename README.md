@@ -10,3 +10,6 @@
   - If the player wrote something that’s more than one character long (e.g., ‘ex’).
   - If the player gave a character that is not a letter (e.g., ‘2’)
 4. Instead of ending the game after one saying or 10 wrong guesses, the program asks if the player wants to play again.  If yes, it plays again.  If no, the program ends.
+
+## Image
+https://user-images.githubusercontent.com/75402947/107471105-8e9f1e80-6b3a-11eb-83d6-754f6542510f.png
